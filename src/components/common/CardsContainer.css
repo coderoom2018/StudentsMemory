@@ -1,0 +1,8 @@
+.cardContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 100%;
+  min-height: 300px;
+  overflow-x: auto;
+}
