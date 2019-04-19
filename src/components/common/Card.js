@@ -5,8 +5,7 @@ export default class Card extends Component {
   render() {
     return (
       <div>
-        <div>Students Card</div>
-        <div>Immersive: 12기</div>
+        <div className="im_number">Immersive: 12기</div>
         <div className="card_imageContainer">
           <img />
         </div>
